@@ -6,5 +6,7 @@ include/
 lib/
 lib64/
 main*copy.spec
+Bittersweet-pygbag.ogg
+Reaching_Out-pygbag.ogg
 mainsequenced.py
 pyvenv.cfg
