@@ -1,0 +1,10 @@
+__pycache__/
+bin/
+build/
+dist/
+include/
+lib/
+lib64/
+main*copy.spec
+mainsequenced.py
+pyvenv.cfg
