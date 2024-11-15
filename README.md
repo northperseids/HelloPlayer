@@ -7,3 +7,5 @@ I wrote this months ago in order to learn Python and a bit of game design. It wa
 Packaged using PyInstaller.
 
 To play, download the .zip file, then for Windows, run "HelloPlayer_Win.exe". For Linux, run "HelloPlayer_Linux".
+
+EDIT: Browser version [here](https://northperseids.itch.io/hello-player)! (Browser version will NOT randomize mazes.)
