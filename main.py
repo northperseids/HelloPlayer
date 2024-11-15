@@ -1,6 +1,6 @@
 #    Maze game
 # Written by Néártsua
-# (Jason, Izzy, North, Sky)
+# (J, I, N, S)
 # project started 4/15/24, finished 4/26/24
 #
 #
