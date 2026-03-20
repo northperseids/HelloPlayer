@@ -9,3 +9,8 @@ Packaged using PyInstaller.
 To play, download the .zip file, then for Windows, run "HelloPlayer_Win.exe". For Linux, run "HelloPlayer_Linux".
 
 EDIT: Browser version [here](https://northperseids.itch.io/hello-player)! (Browser version will NOT randomize mazes.)
+
+<details>
+<summary>(internal CCID)</summary>
+CCID.03.06.PY.hello-player.2&V-2&Z-3&N
+</details>
